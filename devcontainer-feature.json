@@ -16,9 +16,9 @@
         "noVncVersion": {
             "type": "string",
             "proposals": [
-                "1.2.0"
+                "1.5.0"
             ],
-            "default": "1.2.0",
+            "default": "1.5.0",
             "description": "The noVNC version to use"
         },
         "password": {
